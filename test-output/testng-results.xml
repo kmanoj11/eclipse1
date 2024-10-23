@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29" started-at="2024-10-09T15:39:20Z" finished-at="2024-10-09T15:39:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29" started-at="2024-10-09T15:39:20Z" finished-at="2024-10-09T15:39:20Z">
+      <class name="testNGFeatures.TestNGDemo2">
+        <test-method status="PASS" signature="funA()[pri:0, instance:testNGFeatures.TestNGDemo2@58651fd0]" name="funA" duration-ms="6" started-at="2024-10-09T15:39:20Z" finished-at="2024-10-09T15:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funA -->
+        <test-method status="PASS" signature="funB()[pri:0, instance:testNGFeatures.TestNGDemo2@58651fd0]" name="funB" duration-ms="1" started-at="2024-10-09T15:39:20Z" finished-at="2024-10-09T15:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funB -->
+        <test-method status="PASS" signature="funC()[pri:0, instance:testNGFeatures.TestNGDemo2@58651fd0]" name="funC" duration-ms="1" started-at="2024-10-09T15:39:20Z" finished-at="2024-10-09T15:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funC -->
+        <test-method status="PASS" signature="funD()[pri:0, instance:testNGFeatures.TestNGDemo2@58651fd0]" name="funD" duration-ms="0" started-at="2024-10-09T15:39:20Z" finished-at="2024-10-09T15:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funD -->
+      </class> <!-- testNGFeatures.TestNGDemo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
